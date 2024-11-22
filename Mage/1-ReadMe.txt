@@ -1,4 +1,5 @@
-Put the mage folder with into your /Interface folder so that this ReadMe's path is: /Interface/Audio/Mage/ReadMe.txt
+Put the Mage folder with into your /Interface/Audio folder so that this ReadMe's path is: 
+/Interface/Audio/Mage/1-ReadMe.txt
 
 Open the 3-MageWA file and copy the text in that file. 
 Open WeakAuras in game with /wa. 
